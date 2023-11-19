@@ -1,5 +1,4 @@
-#### 👋 Hi there!
-I'm Yulia. An engineer with 2 years in software testing and a diverse IT background.
+#### 👋 Hi there! I'm Yulia. An engineer with 2 years in software testing and a diverse IT background.
 
 With experience in system administration, software implementation, and support, now I'm ensuring the quality and reliability of software products.
 
@@ -25,4 +24,4 @@ Reach out to me for collaboration, opportunities, or just to chat about testing 
 </a>
     
 
-Happy testing! 🤖
+#### 🤖 Happy testing! 
