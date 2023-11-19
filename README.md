@@ -6,9 +6,7 @@ With experience in system administration, software implementation, and support, 
 Currently expanding my proficiency into test automation with Java to enhance efficiency and reliability in the software development lifecycle.
 
 #### 👩🏻‍💻 Demo Project
-Check out my demo project repository: 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yupryanya&repo=bas-demo)](https://github.com/yupryanya/bas-demo)
+Check out my demo project repository:
 
 #### 📫 Let's Connect
 Reach out to me for collaboration, opportunities, or just to chat about testing and automation!
