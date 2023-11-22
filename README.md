@@ -1,6 +1,6 @@
 #### 👋 Hi there! I'm Yulia. An engineer with 2 years in software testing and a diverse IT background.
 
-With experience in system administration, software implementation, and support, now I'm ensuring the quality and reliability of software products.
+With experience in system administration, software implementation, and support, now I'm ensuring the quality of software products.
 
 #### 🚀 Current Focus
 Currently expanding my proficiency into test automation with Java to enhance efficiency and reliability in the software development lifecycle.
