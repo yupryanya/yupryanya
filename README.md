@@ -16,7 +16,7 @@ Reach out to me for collaboration, opportunities, or just to chat about testing 
 <a href="https://t.me/azovceva">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </a>
-<a href="coming-soon">
+<a href="https://www.linkedin.com/in/yulia-azovtceva">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
 <a href="mailto:yulia.pryania@gmail.com">
