@@ -11,7 +11,6 @@ Check out my demo project repository:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yupryanya&repo=bas-demo)](https://github.com/yupryanya/bas-demo)
 
 #### 📫 Let's Connect
-Reach out to me for collaboration, opportunities, or just to chat about testing and automation!
 
 <a href="https://t.me/azovceva">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
