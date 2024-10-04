@@ -8,7 +8,7 @@ Currently expanding my proficiency into test automation with Java to enhance eff
 #### 👩🏻‍💻 Demo Project
 Check out my demo project repository:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yupryanya&repo=bas-demo)](https://github.com/yupryanya/bas-demo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yupryanya&repo=bas-demo)](https://github.com/yupryanya/final-project-demo)
 
 #### 📫 Let's Connect
 
